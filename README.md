@@ -38,8 +38,8 @@ Regular users can share their location with the system and search for the buildi
 ### Admin Controls
 1. Tap the gear icon to open login popup.
 2. Enter credentials:
-   - **Username:** `Admin`
-   - **Password:** `password123`
+   - **Username:** Admin
+   - **Password:** password123
 3. Select editor mode:
    - **Write:** Tap map to add new buildings.
    - **Edit:** Tap building to open or close those nodes.
